@@ -1,0 +1,12 @@
+{
+  "showLineNumber": false,
+  "legacyEditor": false,
+  "livePreview": true,
+  "promptDelete": false,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "absolute",
+  "attachmentFolderPath": "./",
+  "foldHeading": true,
+  "foldIndent": true
+}

@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "b99298d0e426d0d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d716c1a31902900",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fac017a45fcee6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "web-intro.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc275e937b46f3a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "web-intro.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "459078af7fe00f6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "행복.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0ddfbb7341005014",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c6c989f13e3816a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be8af2d23b8c1144",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ef8f0e6d74dbf1f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "175e85d99b044045",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "55d34b3a5c6c2846",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b336c6415b32b6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1231e26528c90bf2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "행복.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0f23b4d27d25e0ae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "행복.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5f290649200b4518",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "73847dede7111e09",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "행복.md"
+              }
+            }
+          },
+          {
+            "id": "f38b91cfb4b09e65",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "ef8f0e6d74dbf1f7",
+  "lastOpenFiles": [
+    "web-intro.md",
+    "nonsense.md",
+    "행복.md",
+    "impressions/202204122330.md",
+    "impressions/20220412-2206.md",
+    "Index.md",
+    "web",
+    "의문들.md",
+    "impressions/20231203-1033.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "202204122206.md",
+    "Test.md",
+    "찬형님.md",
+    "workshop.md",
+    "code.md",
+    "202107192125.md"
+  ]
+}

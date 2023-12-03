@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "b99298d0e426d0d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c6d9e54eba71816",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fac017a45fcee6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa1eabac82c8a267",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "의문들.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8b5b4bee811a4d14",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d5b6c4fb182df5d3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "74b99a0d6583f7b9",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "448eed5ad398282a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "2d1d9f696e6fbe9c",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "2e3edc3f4449813a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6609ffae5e8c2eb8",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "의문들.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "86179a8cb76a4fa3",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "의문들.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b33af3e5d5082621",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "의문들.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "publish:Publish changes...": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "aa1eabac82c8a267",
+  "lastOpenFiles": [
+    "Index.md",
+    "의문들.md",
+    "202204122330.md",
+    "daily-logs/20220412-2206.md",
+    "202204122206.md",
+    "Test.md",
+    "찬형님.md",
+    "workshop.md",
+    "code.md",
+    "202107192125.md"
+  ]
+}
